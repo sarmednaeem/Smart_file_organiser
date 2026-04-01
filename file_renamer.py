@@ -136,3 +136,4 @@ class FileRenamer:
         original = file_path.name
         new_name = self.generate_new_name(file_path)
         return original != new_name
+//
